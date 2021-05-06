@@ -97,7 +97,7 @@ taskItems = {
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lilianabulgaru3pg/TodoListApp/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Mustafa0831/TodoListApp/issues).
 
 ## Show your support
 
