@@ -19,7 +19,7 @@
 
 ![Capture1](https://user-images.githubusercontent.com/13253931/61718062-df89cf00-ad6a-11e9-81cd-3f13db4b7774.PNG)
 
->Add a few Task list and add items to the list. Double-click/tap "Add task" to add tasks. Check-off your todos and navigate the footer to filter for keywords in the items list. Tap the right button in footer to Logout.<br> <a href="https://github.com/lilianabulgaru3pg/TodoListExpressServer"> Server site repository! </a>
+>Add a few Task list and add items to the list. Double-click/tap "Add task" to add tasks. Check-off your todos and navigate the footer to filter for keywords in the items list. Tap the right button in footer to Logout.<br> <a href="https://github.com/Mustafa0831/TodoListExpressServer"> Server site repository! </a>
 
 <hr />
 
